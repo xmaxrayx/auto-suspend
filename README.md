@@ -1,3 +1,5 @@
+#incrased funictionality with AHKv2
+
 # suspend
 suspend/resume a list of processes in Windows (***Not all process can be suspened/resumed properly, use in caution***)  
 I write this for replacing pssuspend.exe in Sysinternals.  
