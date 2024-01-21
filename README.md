@@ -1,4 +1,7 @@
-#incrased funictionality with AHKv2
+# incrased funictionality with AHKv2
+- gui (wip)
+- support agrument (wip)
+  
 
 # suspend
 suspend/resume a list of processes in Windows (***Not all process can be suspened/resumed properly, use in caution***)  
